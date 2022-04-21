@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesarawgi
 - 👀 I’m interested in... Programming
-- 🌱 I’m currently learning ....DS & ALGO
+- 🌱 I’m currently learning ....DS & ALGO, DATA MINING ALGO'S
 - 💞️ I’m looking to collaborate on.... Super Dreamy Companies
 - 📫 How to reach me .... {insta- @thesarawgi}
 
